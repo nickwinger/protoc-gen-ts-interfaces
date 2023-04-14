@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+
+const {runNodeJs} = require("@bufbuild/protoplugin");
+const {protocGenTsInterfaces} = require("../dist/src/protoc-gen-ts-interfaces.js");
+
+runNodeJs(protocGenTsInterfaces);

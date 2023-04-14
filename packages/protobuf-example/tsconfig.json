@@ -1,8 +1,0 @@
-{
-  "files": ["src/add-person.ts", "src/list-people.ts"],
-  "compilerOptions": {
-    "target": "es2016",
-    "strict": true,
-    "moduleResolution": "Node"
-  }
-}

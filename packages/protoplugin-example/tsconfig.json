@@ -1,8 +1,0 @@
-{
-  "files": ["src/protoc-gen-twirp-es.ts", "src/index.ts"],
-  "extends": "../../tsconfig.base.json",
-  "compilerOptions": {
-    "resolveJsonModule": true,
-    "verbatimModuleSyntax": true
-  }
-}
